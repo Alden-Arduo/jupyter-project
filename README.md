@@ -1,1 +1,1 @@
-# sharing-github
+# jupyter-project
